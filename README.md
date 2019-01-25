@@ -1,7 +1,7 @@
 # Tembilahan-City-Location
 
 # Demo
-View this Project-One [Coming soon](https://hendriekasaputra.github.io/Tembilahan-City-Location/)
+View this Project [Click Me](https://hendriekasaputra.github.io/Tembilahan-City-Location/)
 
 ## Screenshot
 ### Picrute one
